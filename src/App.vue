@@ -1,5 +1,6 @@
 <template>
   <div>
+    new line
     <div class="flex h-screen font-whitney">
       <div class="flex-none bg-gray-900 w-18 overflow-y-auto text-white py-3">
         <ul class="flex justify-center items-center flex-col">
