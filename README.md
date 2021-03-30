@@ -1,5 +1,7 @@
 # discord-clone
 
+See this in action https://winexcel.github.io/discord-clone-vue/
+
 ## Project setup
 ```
 npm install
